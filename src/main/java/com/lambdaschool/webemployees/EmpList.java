@@ -23,7 +23,7 @@ public class EmpList
                 return e;
             }
         }
-        return null
+        return null;
     }
 
     public ArrayList<Employee> findEmployees(CheckEmployee tester)
@@ -36,7 +36,7 @@ public class EmpList
                 tempEmpList.add(e);
             }
         }
-        return tempEmpList
+        return tempEmpList;
 
 
     }
